@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 My name is Sydney Levy and I am a student at Swarthmore College (graduating in May 2023). 
+
 I am majoring in Computer Science and Economics with an unoficial minor in Statistics. 
-In the past I have worked at: Facebook (Data Science Intern) and Morgan Stanley (in Technology Equity Capital Markets)
+
+In the past I have worked at: Facebook (Data Science Intern) and Morgan Stanley (in Technology Equity Capital Markets).
 
 - 📫 How to reach me: email slevy1@swarthmore.edu, LinkedIn: www.linkedin.com/in/sydney-levy-2023
 
