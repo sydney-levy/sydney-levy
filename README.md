@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sydney Levy and I am a student at Swarthmore College (graduating in May 2023). 
+My name is Sydney Levy and I am a student at Swarthmore College (graduating in May 2023). After graduation, I will be attending Harvard for my Master's in Data Science. 
 
 I am majoring in Computer Science and Economics with an unoficial minor in Statistics. 
 
