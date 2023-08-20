@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-My name is Sydney Levy and I am a student at Swarthmore College (graduating in May 2023). After graduation, I will be attending Harvard for my Master's in Data Science. 
-
-I am majoring in Computer Science and Economics with an unoficial minor in Statistics. 
+My name is Sydney Levy and I am a Master's in Data Science student at Harvard University (graduating in May 2024). I am interested in the intersection of Machine Learning, Data Science, and Healthcare.  
 
 In the past I have worked at: Facebook (Data Science Intern) and Morgan Stanley (in Technology Equity Capital Markets).
 
-- 📫 How to reach me: email slevy1@swarthmore.edu, LinkedIn: www.linkedin.com/in/sydney-levy-2023
+- 📫 How to reach me: email sydneylevy@g.harvard.edu, LinkedIn: www.linkedin.com/in/sydney-levy-2023
 
 
 <!--
