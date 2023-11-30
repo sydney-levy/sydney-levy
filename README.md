@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sydney Levy and I am a Master's in Data Science student at Harvard University (graduating in May 2024). I am interested in the intersection of Machine Learning, Data Science, and Healthcare.  
+My name is Sydney Levy and I am a Master's in Data Science student at Harvard University (graduating in May 2025). I am interested in the intersection of Machine Learning, Data Science, and Healthcare.  
 
 In the past I have worked at: Facebook (Data Science Intern) and Morgan Stanley (in Technology Equity Capital Markets).
 
