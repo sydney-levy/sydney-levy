@@ -6,7 +6,7 @@ I am currently working as a Data Science intern at Amazon on the Workforce Solut
 
 In the past I have worked at: Facebook (Data Science Intern) and Morgan Stanley (in Technology Equity Capital Markets).
 
-- 📫 How to reach me: email sydneylevy@g.harvard.edu, LinkedIn: www.linkedin.com/in/sydney-levy-2023
+- 📫 How to reach me: email sydneylevy@g.harvard.edu, LinkedIn: www.linkedin.com/in/sydney-e-levy
 
 
 <!--
