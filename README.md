@@ -2,9 +2,7 @@
 
 My name is Sydney Levy and I am a Master's in Data Science student at Harvard University (graduating in May 2025). I am interested in the intersection of Machine Learning, Data Science, and Healthcare.  
 
-I am currently working as a Data Science intern at Amazon on the Workforce Solutions Transformative Tech team. 
-
-In the past I have worked at: Facebook (Data Science Intern) and Morgan Stanley (in Technology Equity Capital Markets).
+In the past I have worked at: Amazon (Data Science Intern), Facebook (Data Science Intern) and Morgan Stanley (in Technology Equity Capital Markets).
 
 - 📫 How to reach me: email sydneylevy@g.harvard.edu, LinkedIn: www.linkedin.com/in/sydney-e-levy
 
